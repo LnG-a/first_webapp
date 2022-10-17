@@ -21,12 +21,12 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    color: #fff;
+    color: white;
     font-size: 100px;
   }
   
   .products {
-    background-image: url('./images/img-1.jpg');
+    background-image: url('./images/img-home.jpg');
     background-position: center;
     background-size: fill;
     background-repeat: no-repeat;
